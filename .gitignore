@@ -1,0 +1,8 @@
+# Mac finder config
+.DS_Store
+
+# vscode config
+.vscode/
+
+# Build files
+build/
